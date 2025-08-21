@@ -46,17 +46,6 @@
 
 <!-- Connect Section -->
 <h2 align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo4MSwidyI6MTI1MCwiZnMiOjY1LCJmZ2MiOiIjZjViMzQyIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/UmVhY2ggb3V0/karasha.png" width="200" alt="Reach Out">
-</h2>
-<br>
-<br>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjZjViMzQyIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBhbiBhcnQsIHNlY3VyaXR5IGlzIGEgbGlmZXN0eWxl/karasha.png" width="400" alt="Code is the brush, the terminal is the canvas.">
-  <style>
-body{
-background-color:#363129; 
   
-  </style>
+
 </p>
