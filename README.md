@@ -54,4 +54,9 @@
 <!-- Footer -->
 <p align="center">
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjo1NCwidyI6MTI1MCwiZnMiOjQzLCJmZ2MiOiIjZjViMzQyIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/SGFja2luZyBpcyBhbiBhcnQsIHNlY3VyaXR5IGlzIGEgbGlmZXN0eWxl/karasha.png" width="400" alt="Code is the brush, the terminal is the canvas.">
+  <style>
+body{
+background-color:#363129; 
+  
+  </style>
 </p>
