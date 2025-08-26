@@ -3,7 +3,8 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/kirubelm1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=f5b342&center=true&vCenter=true&width=500&lines=tutorial+copy-paster;Programming+Addict;web+dev+in+progress;breaking+things+on+purpose;vibing+with+console.logs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=ff4444&center=true&vCenter=true&width=700&lines=building+systems+to+break+them;living+inside+the+terminal;debugging+reality+line+by+line;I+write+code+that+writes+code;breaking+security+for+knowledge;creator+of+bugs+and+solutions;I+can+crash+your+server+%26+fix+it;logic+is+my+weapon;hacking+is+just+problem+solving;dangerous+when+bored;architect+of+chaos;control+through+code;ghost+in+the+network;code+is+my+playground;systems+fear+me" alt="Typing SVG" />
+
   </a>
 </p>
 
