@@ -34,7 +34,7 @@
 <div align="center">
   
   <h2>🚀 About Me</h2>
-  <p>Full Stack Developer & Problem Solver • Security-conscious coding mindset</p>
+  <p>Full Stack Developer & Problem Solver • Security-conscious coding mindset • Programming Addict</p>
 
 </div>
 
