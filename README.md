@@ -41,7 +41,7 @@
 <!-- Tech Stack & Skills -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> 
-  &nbsp;Tech Arsenal&nbsp;
+  &nbsp;Tech Stack&nbsp;
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
 </h2>
 
