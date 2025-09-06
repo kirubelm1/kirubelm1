@@ -7,18 +7,19 @@
   />
 </p>
 
-  <div style="margin-top: -60px;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80"/>
-  </div>
-  
-</div>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kirubelm1&label=Profile%20Views&color=f5b342&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Location-Ethiopia-00FF00?style=flat-square&logo=location&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Innovation%20%26%20Problem%20Solving-000000?style=flat-square&color=f5b342" alt="Focus"/>
 </p>
+
+
+  <div style="margin-top: -60px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80"/>
+  </div>
+  
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
