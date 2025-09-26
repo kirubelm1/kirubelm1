@@ -59,10 +59,9 @@
 
 ## 🏆 Achievements  
 - ⚡ **Top student** in academics & competitions  
-- 💻 Built **School Management System**, **E-commerce Platform**, and **Bit Spreadsheet**  
-- 🚀 Selected to represent school in **academic & coding events**  
+- 💻 Built **School Management System**, **E-commerce Platform**, and **Bit Spreadsheet**   
 - 🏅 Recognized for **innovation + creativity** in software projects  
-- 📺 Founder of a **YouTube channel** on coding, science, and space  
+  
 
 ---
 
