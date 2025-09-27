@@ -23,6 +23,8 @@
 - 🎯 Goal: Create tools that merge **innovation + tradition**  
 - ⚡ Fun fact: I debug faster when coffee is near ☕  
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kirubelm1)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🛠 Tech Arsenal  
