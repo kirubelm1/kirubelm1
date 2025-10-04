@@ -4,6 +4,7 @@
 
 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=FF2D55&center=true&vCenter=true&width=900&lines=15+year+old+Code+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Full-stack+dreams%2C+zero+chill+%F0%9F%94%A5;Smuggling+bugs+out+of+back-end+alleys+%F0%9F%95%B5;Building+for+Ethiopia+and+beyond+%F0%9F%8C%8D;Deploying+on+caffeine+and+curiosity+%E2%98%95"/>
 </p>
