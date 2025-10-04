@@ -19,6 +19,7 @@
 ## 🚀 About Me  
 💻 Full Stack Developer • 🔐 Security-conscious coder • ⚡ Programming Addict  
 
+
 - 🌍 Building solutions for Ethiopia & beyond  
 - 🛠 Currently working on **School Management Systems & E-commerce**  
 - 🌱 Learning **TypeScript & Cloud Infrastructure**  
