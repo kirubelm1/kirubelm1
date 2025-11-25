@@ -29,8 +29,15 @@
 - 🌱 Working On TypeScript  
 - 🎯 Goal: Create tools that merge **innovation + tradition**  
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kirubelm1&theme=darkhub&margin-w=4" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kirubelm1)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+</div>
 ---
 
 ## 🛠 Tech Stack  
