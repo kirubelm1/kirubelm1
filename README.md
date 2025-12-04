@@ -23,7 +23,7 @@
 ---
 
 ## 🚀 About Me  
-💻 Full Stack Developer • 🔐 Security-conscious coder • ⚡ Programming Addict  
+💻 Full Stack Developer • 🔐 Security-conscious coder • ⚡ Programming Addict  • Freshman at Highschool
 
 
 - 🌍 Building solutions for Ethiopia & beyond  
