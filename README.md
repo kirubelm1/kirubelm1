@@ -29,7 +29,8 @@
 - 🌍 Building solutions for Ethiopia & beyond  
 - 🛠 Currently working on **School Management Systems & E-commerce**  
 - 🌱 Working On TypeScript  
-- 🎯 Goal: Create tools that merge **innovation + tradition**  
+- 🎯 Goal: Create tools that merge **innovation + tradition**
+- Privacy is not an option
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kirubelm1&theme=darkhub&margin-w=4" />
